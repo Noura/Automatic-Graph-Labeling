@@ -1,0 +1,3 @@
+Automatic Graph Labeling
+
+Given a graph in the form of an adjacenecy matrix, provides a lambda L(2,1) labeling.
